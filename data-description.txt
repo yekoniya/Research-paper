@@ -1,0 +1,17 @@
+Data description
+	Source: https://opencellid.org/
+	Description: -The world's largest Open Database of Cell Towers
+							 -http://wiki.opencellid.org/wiki/Glossary
+							 -http://wiki.opencellid.org/wiki/FAQ#Only_the_few_last_measurements_files_have_the_field_.3Cradio.3E.Is_there_any_other_way_to_know_which_network_a_measurement_originates_from.3F
+							 
+							 
+	Country: Cameroon
+	size: 28 761 observations with 14 columns
+	
+
+
+Useful links:
+	http://wiki.opencellid.org/wiki/What_is_OpenCellID
+	http://wiki.opencellid.org/wiki/View_the_data
+
+
